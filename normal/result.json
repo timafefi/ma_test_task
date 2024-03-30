@@ -1,0 +1,2310 @@
+{
+    "items": [
+        {
+            "id": 10036894,
+            "productId": 139434,
+            "title": "\u0421\u044b\u0440 \u043c\u044f\u0433\u043a\u0438\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0421\u0442\u0438\u043b\u0442\u043e\u043d\u044a \u0441 \u0433\u043e\u043b\u0443\u0431\u043e\u0439 \u043f\u043b\u0435\u0441\u0435\u043d\u044c\u044e 55%, 150 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207489"
+            ],
+            "price": {
+                "value": 189.95,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 399.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18924172,
+            "productId": 284062,
+            "title": "\u041c\u0430\u0440\u043c\u0435\u043b\u0430\u0434 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0435\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u044c\u043a\u0438 \u0447\u0435\u0440\u043d\u043e\u0439 \u0441\u043c\u043e\u0440\u043e\u0434\u0438\u043d\u044b, 150 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28520403",
+                "https://www.auchan.ru/files/original/28520407",
+                "https://www.auchan.ru/files/original/28520417"
+            ],
+            "price": {
+                "value": 49.95,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 99.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18924163,
+            "productId": 284038,
+            "title": "\u041c\u0430\u0440\u043c\u0435\u043b\u0430\u0434 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0435\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u043f\u043b\u0430\u0441\u0442\u043e\u0432\u044b\u0439 \u043c\u0430\u043b\u0438\u043d\u043e\u0432\u044b\u0439, 150 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28520459",
+                "https://www.auchan.ru/files/original/28520463",
+                "https://www.auchan.ru/files/original/28520465",
+                "https://www.auchan.ru/files/original/28520471"
+            ],
+            "price": {
+                "value": 49.95,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 99.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18924169,
+            "productId": 284056,
+            "title": "\u041c\u0430\u0440\u043c\u0435\u043b\u0430\u0434 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0435\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0446\u0438\u0442\u0440\u0443\u0441\u043e\u0432\u044b\u0435 \u0434\u043e\u043b\u044c\u043a\u0438, 150 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28520326",
+                "https://www.auchan.ru/files/original/28520332",
+                "https://www.auchan.ru/files/original/28520336"
+            ],
+            "price": {
+                "value": 49.95,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 99.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18924168,
+            "productId": 284053,
+            "title": "\u041c\u0430\u0440\u043c\u0435\u043b\u0430\u0434 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0435\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0444\u043e\u0440\u043c\u043e\u0432\u043e\u0439 \u043a\u043b\u044e\u043a\u0432\u0435\u043d\u043d\u044b\u0439, 150 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28520311",
+                "https://www.auchan.ru/files/original/28520313",
+                "https://www.auchan.ru/files/original/28520319"
+            ],
+            "price": {
+                "value": 49.95,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 99.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18924175,
+            "productId": 284069,
+            "title": "\u041c\u0430\u0440\u043c\u0435\u043b\u0430\u0434 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0435\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u043f\u043b\u0430\u0441\u0442\u043e\u0432\u044b\u0439 \u044f\u0431\u043b\u043e\u0447\u043d\u044b\u0439, 150 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28520461",
+                "https://www.auchan.ru/files/original/28520467",
+                "https://www.auchan.ru/files/original/28520470",
+                "https://www.auchan.ru/files/original/28520474"
+            ],
+            "price": {
+                "value": 49.95,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 99.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18924174,
+            "productId": 284065,
+            "title": "\u041c\u0430\u0440\u043c\u0435\u043b\u0430\u0434 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0435\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0444\u043e\u0440\u043c\u043e\u0432\u043e\u0439 \u044f\u0431\u043b\u043e\u0447\u043d\u044b\u0439, 150 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28520447",
+                "https://www.auchan.ru/files/original/28520450",
+                "https://www.auchan.ru/files/original/28520456"
+            ],
+            "price": {
+                "value": 49.95,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 99.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 1007347,
+            "productId": 26774,
+            "title": "\u041f\u0435\u0440\u0435\u0446 \u0437\u0435\u043b\u0435\u043d\u044b\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0433\u043e\u0440\u043e\u0448\u0435\u043a, 35 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30614940",
+                "https://www.auchan.ru/files/original/30614964",
+                "https://www.auchan.ru/files/original/30614972"
+            ],
+            "price": {
+                "value": 199.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 287.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 14104952,
+            "productId": 199093,
+            "title": "\u0421\u044b\u0440 \u043f\u043e\u043b\u0443\u0442\u0432\u0435\u0440\u0434\u044b\u0439 \u041a\u0430\u0447\u043e\u0442\u0442\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0441 \u043f\u0430\u043f\u0440\u0438\u043a\u043e\u0439 \u0438 \u0442\u0440\u0430\u0432\u0430\u043c\u0438 \u0411\u0417\u041c\u0416, 240 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29208701",
+                "https://www.auchan.ru/files/original/26317895"
+            ],
+            "price": {
+                "value": 279.95,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 399.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 14104954,
+            "productId": 199095,
+            "title": "\u0421\u044b\u0440 \u043f\u043e\u043b\u0443\u0442\u0432\u0435\u0440\u0434\u044b\u0439 \u041a\u0430\u0447\u043e\u0442\u0442\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0417\u041c\u0416, 240 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29208737",
+                "https://www.auchan.ru/files/original/26317901"
+            ],
+            "price": {
+                "value": 279.95,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 399.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 14104955,
+            "productId": 199096,
+            "title": "\u0421\u044b\u0440 \u043f\u043e\u043b\u0443\u0442\u0432\u0435\u0440\u0434\u044b\u0439 \u041a\u0430\u0447\u043e\u0442\u0442\u0430 \u0441 \u043f\u0430\u0436\u0438\u0442\u043d\u0438\u043a\u043e\u043c \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0417\u041c\u0416, 240 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29208749",
+                "https://www.auchan.ru/files/original/26317904"
+            ],
+            "price": {
+                "value": 288.95,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 399.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 16755590,
+            "productId": 245362,
+            "title": "\u0421\u044b\u0440 \u043c\u044f\u0433\u043a\u0438\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0443\u0440\u0440\u0430\u0442\u0430 \u0411\u0417\u041c\u0416, 200 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29205189",
+                "https://www.auchan.ru/files/original/27672932"
+            ],
+            "price": {
+                "value": 189.9,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 259.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 16755591,
+            "productId": 245364,
+            "title": "\u0421\u044b\u0440 \u043c\u044f\u0433\u043a\u0438\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0421\u0442\u0440\u0430\u0447\u0430\u0442\u0435\u043b\u043b\u0430 \u0411\u0417\u041c\u0416, 200 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29205209",
+                "https://www.auchan.ru/files/original/27672936"
+            ],
+            "price": {
+                "value": 239,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 319.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 19528945,
+            "productId": 298736,
+            "title": "\u0421\u044b\u0440 \u043c\u044f\u0433\u043a\u0438\u0439 \u0411\u0440\u0438 \u0441 \u0431\u0435\u043b\u043e\u0439 \u043f\u043b\u0435\u0441\u0435\u043d\u044c\u044e \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 60% \u0411\u0417\u041c\u0416, \u0432\u0435\u0441",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29418021",
+                "https://www.auchan.ru/files/original/28847506"
+            ],
+            "price": {
+                "value": 139.99,
+                "currency": "RUB",
+                "per": "weight_100g"
+            },
+            "oldPrice": {
+                "value": 170,
+                "currency": "RUB",
+                "per": "weight_100g"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20851229,
+            "productId": 314061,
+            "title": "\u041a\u043e\u043b\u0431\u0430\u0441\u0430 \u0441\u044b\u0440\u043e\u0432\u044f\u043b\u0435\u043d\u0430\u044f \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0424\u0443\u044d\u0442 \u0441 \u0441\u044b\u0440\u043e\u043c, 110 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29919229"
+            ],
+            "price": {
+                "value": 189.9,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 229.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18541745,
+            "productId": 278687,
+            "title": "\u0421\u044b\u0440 \u043c\u044f\u0433\u043a\u0438\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u041a\u0430\u043c\u0430\u043c\u0431\u0435\u0440 \u0441 \u0431\u0435\u043b\u043e\u0439 \u043f\u043b\u0435\u0441\u0435\u043d\u044c\u044e 50% \u0411\u0417\u041c\u0416, 125 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29208273",
+                "https://www.auchan.ru/files/original/28378199",
+                "https://www.auchan.ru/files/original/28378201"
+            ],
+            "price": {
+                "value": 199.9,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 239.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20851221,
+            "productId": 314033,
+            "title": "\u041a\u043e\u043b\u0431\u0430\u0441\u0430 \u0441\u044b\u0440\u043e\u0432\u044f\u043b\u0435\u043d\u0430\u044f \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0424\u0443\u044d\u0442 \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439, 110 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29919161"
+            ],
+            "price": {
+                "value": 189.9,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 229.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18827357,
+            "productId": 280847,
+            "title": "\u0421\u044b\u0440 \u043f\u043e\u043b\u0443\u0442\u0432\u0435\u0440\u0434\u044b\u0439 \u041a\u0430\u0447\u043e\u0442\u0442\u0430 \u0441 \u043e\u043b\u0438\u0432\u043a\u043e\u0432\u044b\u043c \u043c\u0430\u0441\u043b\u043e\u043c \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0417\u041c\u0416, 240 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207305"
+            ],
+            "price": {
+                "value": 288.95,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 349.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20130005,
+            "productId": 300373,
+            "title": "\u0421\u044b\u0440 \u043a\u043e\u043f\u0447\u0435\u043d\u044b\u0439 \u041f\u0435\u0440\u043b\u0438\u043d\u0438 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430, 50 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29367877"
+            ],
+            "price": {
+                "value": 67.9,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 79.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20130004,
+            "productId": 300372,
+            "title": "\u0421\u044b\u0440 \u043a\u043e\u043f\u0447\u0435\u043d\u044b\u0439 \u041f\u0435\u0440\u043b\u0438\u043d\u0438 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29367865"
+            ],
+            "price": {
+                "value": 104.9,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 119.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 19225766,
+            "productId": 290409,
+            "title": "\u0421\u044b\u0440 \u043c\u044f\u0433\u043a\u0438\u0439 \u0441 \u0431\u0435\u043b\u043e\u0439 \u043f\u043b\u0435\u0441\u0435\u043d\u044c\u044e \u0413\u0440\u0438\u043b\u044c\u043c\u0430\u043c\u0431\u0435\u0440 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 50% \u0411\u0417\u041c\u0416, 150 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29208973",
+                "https://www.auchan.ru/files/original/28672846"
+            ],
+            "price": {
+                "value": 259.9,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 299.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18417150,
+            "productId": 275948,
+            "title": "\u0421\u044b\u0440 \u043f\u043e\u043b\u0443\u0442\u0432\u0435\u0440\u0434\u044b\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0425\u0430\u043b\u0443\u043c\u0438 50% \u0411\u0417\u041c\u0416, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29208153",
+                "https://www.auchan.ru/files/original/28377925"
+            ],
+            "price": {
+                "value": 139.9,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 159.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 14254362,
+            "productId": 199803,
+            "title": "\u0421\u044b\u0440 \u0428\u0435\u0432\u0440 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0441 \u043e\u0441\u0442\u0440\u044b\u043c \u043f\u0435\u0440\u0446\u0435\u043c \u0411\u0417\u041c\u0416, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207137",
+                "https://www.auchan.ru/files/original/26794068",
+                "https://www.auchan.ru/files/original/26794070",
+                "https://www.auchan.ru/files/original/26794072"
+            ],
+            "price": {
+                "value": 229.9,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 259.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 10036897,
+            "productId": 139437,
+            "title": "\u0421\u044b\u0440 \u043c\u044f\u0433\u043a\u0438\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0428\u0435\u0432\u0440 \u0438\u0437 \u043a\u043e\u0437\u044c\u0435\u0433\u043e \u043c\u043e\u043b\u043e\u043a\u0430 \u0441 \u043f\u0440\u043e\u0432\u0430\u043d\u0441\u043a\u0438\u043c\u0438 \u0442\u0440\u0430\u0432\u0430\u043c\u0438 45% \u0411\u0417\u041c\u0416, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207541"
+            ],
+            "price": {
+                "value": 229.9,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 259.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 10036898,
+            "productId": 139438,
+            "title": "\u0421\u044b\u0440 \u043c\u044f\u0433\u043a\u0438\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0428\u0435\u0432\u0440 \u041a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0438\u0437 \u043a\u043e\u0437\u044c\u0435\u0433\u043e \u043c\u043e\u043b\u043e\u043a\u0430 45% \u0411\u0417\u041c\u0416, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207569"
+            ],
+            "price": {
+                "value": 229.9,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 259.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 14104953,
+            "productId": 199094,
+            "title": "\u0421\u044b\u0440 \u043f\u043e\u043b\u0443\u0442\u0432\u0435\u0440\u0434\u044b\u0439 \u041a\u0430\u0447\u043e\u0442\u0442\u0430 \u0441 \u0442\u0440\u044e\u0444\u0435\u043b\u0435\u043c \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0417\u041c\u0416, 240 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29208721"
+            ],
+            "price": {
+                "value": 448.95,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 499.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18924176,
+            "productId": 284071,
+            "title": "\u041f\u0430\u0441\u0442\u0438\u043b\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0435\u043b\u0435\u0432\u0441\u043a\u0430\u044f \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u0430\u044f \u044f\u0431\u043b\u043e\u0447\u043d\u0430\u044f, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207689",
+                "https://www.auchan.ru/files/original/28520482",
+                "https://www.auchan.ru/files/original/28520485",
+                "https://www.auchan.ru/files/original/28520488"
+            ],
+            "price": {
+                "value": 99.9,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 109.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18924179,
+            "productId": 284074,
+            "title": "\u041f\u0430\u0441\u0442\u0438\u043b\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0435\u043b\u0435\u0432\u0441\u043a\u0430\u044f \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u0430\u044f \u0441 \u043a\u043e\u0440\u0438\u0446\u0435\u0439, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207733",
+                "https://www.auchan.ru/files/original/28520499",
+                "https://www.auchan.ru/files/original/28520501",
+                "https://www.auchan.ru/files/original/28520504"
+            ],
+            "price": {
+                "value": 99.9,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 109.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18924170,
+            "productId": 284058,
+            "title": "\u041f\u0430\u0441\u0442\u0438\u043b\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0435\u043b\u0435\u0432\u0441\u043a\u0430\u044f \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u0430\u044f \u0441 \u044f\u0433\u043e\u0434\u043a\u0430\u043c\u0438 \u0447\u0435\u0440\u043d\u043e\u0439 \u0441\u043c\u043e\u0440\u043e\u0434\u0438\u043d\u044b, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207633",
+                "https://www.auchan.ru/files/original/28520352",
+                "https://www.auchan.ru/files/original/28520359",
+                "https://www.auchan.ru/files/original/28520370"
+            ],
+            "price": {
+                "value": 99.9,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 109.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18924173,
+            "productId": 284063,
+            "title": "\u041f\u0430\u0441\u0442\u0438\u043b\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0435\u043b\u0435\u0432\u0441\u043a\u0430\u044f \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u0430\u044f \u044f\u0431\u043b\u043e\u0447\u043d\u0430\u044f \u0431\u0435\u0437 \u0441\u0430\u0445\u0430\u0440\u0430, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207673",
+                "https://www.auchan.ru/files/original/28520430",
+                "https://www.auchan.ru/files/original/28520435",
+                "https://www.auchan.ru/files/original/28520440"
+            ],
+            "price": {
+                "value": 99.9,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 109.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18924171,
+            "productId": 284059,
+            "title": "\u041f\u0430\u0441\u0442\u0438\u043b\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0435\u043b\u0435\u0432\u0441\u043a\u0430\u044f \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u0430\u044f \u0441 \u043a\u043b\u044e\u043a\u0432\u043e\u0439 \u0431\u0435\u0437 \u0441\u0430\u0445\u0430\u0440\u0430, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207645",
+                "https://www.auchan.ru/files/original/28520384",
+                "https://www.auchan.ru/files/original/28520389",
+                "https://www.auchan.ru/files/original/28520395"
+            ],
+            "price": {
+                "value": 99.9,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": {
+                "value": 109.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20277141,
+            "productId": 302771,
+            "title": "\u041a\u043e\u0444\u0435 \u0432 \u043a\u0430\u043f\u0441\u0443\u043b\u0430\u0445 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u041c\u0435\u043a\u0441\u0438\u043a\u0430 organic, 10 \u0448\u0442",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29918833",
+                "https://www.auchan.ru/files/original/29918837",
+                "https://www.auchan.ru/files/original/29918841"
+            ],
+            "price": {
+                "value": 499.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 17536004,
+            "productId": 260633,
+            "title": "\u0410\u0434\u0436\u0430\u043f\u0441\u0430\u043d\u0434\u0430\u043b \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043e\u0432\u043e\u0449\u043d\u043e\u0435 \u0440\u0430\u0433\u0443, 460 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27964453"
+            ],
+            "price": {
+                "value": 244.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 3924766,
+            "productId": 52550,
+            "title": "\u041f\u0440\u0438\u043f\u0440\u0430\u0432\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0422\u043e\u0433\u0430\u0440\u0430\u0448\u0438, 50 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30615112",
+                "https://www.auchan.ru/files/original/30615128",
+                "https://www.auchan.ru/files/original/30615140"
+            ],
+            "price": {
+                "value": 125.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 17535999,
+            "productId": 260628,
+            "title": "\u041f\u0435\u0440\u0435\u0446 \u0433\u0440\u0438\u043b\u044c \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430, 340 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27964421",
+                "https://www.auchan.ru/files/original/27964423",
+                "https://www.auchan.ru/files/original/27964425"
+            ],
+            "price": {
+                "value": 228.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20277145,
+            "productId": 302772,
+            "title": "\u041a\u043e\u0444\u0435 \u0432 \u043a\u0430\u043f\u0441\u0443\u043b\u0430\u0445 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f organic, 10 \u0448\u0442",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29918845",
+                "https://www.auchan.ru/files/original/29918849",
+                "https://www.auchan.ru/files/original/29918853",
+                "https://www.auchan.ru/files/original/29918861"
+            ],
+            "price": {
+                "value": 499.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20165820,
+            "productId": 267623,
+            "title": "\u041a\u043e\u0444\u0435 \u043c\u043e\u043b\u043e\u0442\u044b\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u041f\u0442\u0438\u0446\u0430, 100\u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29377165",
+                "https://www.auchan.ru/files/original/29377177"
+            ],
+            "price": {
+                "value": 329.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 17536000,
+            "productId": 260629,
+            "title": "\u041c\u0430\u0440\u0438\u043d\u0430\u0434 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043e\u0441\u0435\u043d\u043d\u0438\u0439, 950 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27964426",
+                "https://www.auchan.ru/files/original/27964428",
+                "https://www.auchan.ru/files/original/27964430"
+            ],
+            "price": {
+                "value": 355.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 982941,
+            "productId": 25560,
+            "title": "\u041f\u0440\u0438\u043f\u0440\u0430\u0432\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0418\u043d\u0434\u0438\u044f-\u0433\u0430\u0440\u0430\u043c \u043c\u0430\u0441\u0430\u043b\u0430, 45 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30614976",
+                "https://www.auchan.ru/files/original/30614992",
+                "https://www.auchan.ru/files/original/30615004"
+            ],
+            "price": {
+                "value": 121.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 19953901,
+            "productId": 300807,
+            "title": "\u0421\u0438\u0434\u0440 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043f\u043e\u043b\u0443\u0441\u0443\u0445\u043e\u0439 \u0433\u0430\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 3,9%, 0,75 \u043b",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29481733",
+                "https://www.auchan.ru/files/original/29481757"
+            ],
+            "price": {
+                "value": 229.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 19953903,
+            "productId": 300840,
+            "title": "\u0421\u0438\u0434\u0440 \u0431\u0435\u0437\u0430\u043b\u043a\u043e\u0433\u043e\u043b\u044c\u043d\u044b\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0441\u043e \u0432\u043a\u0443\u0441\u043e\u043c \u0447\u0435\u0440\u043d\u043e\u0439 \u0441\u043c\u043e\u0440\u043e\u0434\u0438\u043d\u044b \u0433\u0430\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439, 0,33 \u043b",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29482305",
+                "https://www.auchan.ru/files/original/29482309"
+            ],
+            "price": {
+                "value": 139.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18800521,
+            "productId": 281781,
+            "title": "\u0421\u044b\u0440 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0445\u0430\u043b\u0443\u043c\u0438 \u0441 \u043f\u0430\u043f\u0440\u0438\u043a\u043e\u0439 \u0411\u0417\u041c\u0416, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207453",
+                "https://www.auchan.ru/files/original/28397241",
+                "https://www.auchan.ru/files/original/28397242"
+            ],
+            "price": {
+                "value": 159.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20305729,
+            "productId": 293576,
+            "title": "\u041f\u0430\u043f\u0430\u0439\u044f \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043a\u043e\u043d\u0441\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f, 425 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29928757",
+                "https://www.auchan.ru/files/original/29928761"
+            ],
+            "price": {
+                "value": 159.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 14916967,
+            "productId": 207944,
+            "title": "\u0420\u043e\u0437\u043c\u0430\u0440\u0438\u043d \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430, 30 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27017490"
+            ],
+            "price": {
+                "value": 99.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 17536003,
+            "productId": 260632,
+            "title": "\u0410\u043f\u043f\u0435\u0442\u0438\u0442\u043a\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043e\u0432\u043e\u0449\u043d\u043e\u0439 \u0433\u0430\u0440\u043d\u0438\u0440, 720 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27964445",
+                "https://www.auchan.ru/files/original/27964448",
+                "https://www.auchan.ru/files/original/27964450"
+            ],
+            "price": {
+                "value": 240.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18900590,
+            "productId": 279708,
+            "title": "\u041a\u043e\u043b\u0431\u0430\u0441\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0410\u0441\u0441\u043e\u0440\u0442\u0438 \u0438\u0437 \u0441\u044b\u0440\u043e\u043a\u043e\u043f\u0447\u0435\u043d\u044b\u0445 \u043a\u043e\u043b\u0431\u0430\u0441 \u041c\u0438\u043b\u0430\u043d\u043e \u0438 \u041f\u0430\u043b\u0435\u0440\u043c\u043e, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28414876"
+            ],
+            "price": {
+                "value": 169.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20305733,
+            "productId": 293577,
+            "title": "\u041c\u0430\u0440\u0430\u043a\u0443\u0439\u044f \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043a\u043e\u043d\u0441\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f, 425 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29928765",
+                "https://www.auchan.ru/files/original/29928769"
+            ],
+            "price": {
+                "value": 199.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20232061,
+            "productId": 302837,
+            "title": "\u041f\u0430\u043d\u043d\u0430-\u043a\u043e\u0442\u0442\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u041c\u0430\u043d\u0433\u043e, 240 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30113009",
+                "https://www.auchan.ru/files/original/30113021",
+                "https://www.auchan.ru/files/original/30113033",
+                "https://www.auchan.ru/files/original/30113045"
+            ],
+            "price": {
+                "value": 169.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18800520,
+            "productId": 281778,
+            "title": "\u0421\u044b\u0440 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0445\u0430\u043b\u0443\u043c\u0438 \u0441 \u043f\u0435\u0442\u0440\u0443\u0448\u043a\u043e\u0439 \u0438 \u0447\u0435\u0441\u043d\u043e\u043a\u043e\u043c \u0411\u0417\u041c\u0416, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207433",
+                "https://www.auchan.ru/files/original/28397566",
+                "https://www.auchan.ru/files/original/28397567"
+            ],
+            "price": {
+                "value": 159.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 17825070,
+            "productId": 265111,
+            "title": "\u041a\u0430\u0440\u043f\u0430\u0447\u0447\u043e \u0438\u0437 \u0438\u043d\u0434\u0435\u0439\u043a\u0438 \u0441\u044b\u0440\u043e\u043a\u043e\u043f\u0447\u0435\u043d\u043e\u0435 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0432 \u043d\u0430\u0440\u0435\u0437\u043a\u0435, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29330665",
+                "https://www.auchan.ru/files/original/29332233",
+                "https://www.auchan.ru/files/original/29328613"
+            ],
+            "price": {
+                "value": 189.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 14916971,
+            "productId": 207943,
+            "title": "\u0411\u0430\u0437\u0438\u043b\u0438\u043a \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0437\u0435\u043b\u0435\u043d\u044b\u0439, 50 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27017482"
+            ],
+            "price": {
+                "value": 119.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20963937,
+            "productId": 312296,
+            "title": "\u0411\u0430\u0442\u043e\u043d\u0447\u0438\u043a \u0438\u0437 \u0431\u0435\u043b\u0435\u0432\u0441\u043a\u043e\u0439 \u043f\u0430\u0441\u0442\u0438\u043b\u044b \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0441 \u043a\u043b\u044e\u043a\u0432\u043e\u0439, 50 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30214229"
+            ],
+            "price": {
+                "value": 59.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 137827,
+            "productId": 8458,
+            "title": "\u0420\u0438\u0441 \u0434\u043b\u0438\u043d\u043d\u043e\u0437\u0435\u0440\u043d\u044b\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0421\u0443\u043f\u0435\u0440 \u0411\u0430\u0441\u043c\u0430\u0442\u0438, 500 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/2459219"
+            ],
+            "price": {
+                "value": 155.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 13297054,
+            "productId": 184629,
+            "title": "\u0428\u043e\u043a\u043e\u043b\u0430\u0434 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043d\u0430 \u0441\u0442\u0435\u0432\u0438\u0438 52%, 90 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207881",
+                "https://www.auchan.ru/files/original/25279618",
+                "https://www.auchan.ru/files/original/27441281",
+                "https://www.auchan.ru/files/original/27441283"
+            ],
+            "price": {
+                "value": 139.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 17134666,
+            "productId": 254446,
+            "title": "\u0410\u0439\u0440\u0430\u043d \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0442\u0443\u0440\u0435\u0446\u043a\u0438\u0439 2% \u0411\u0417\u041c\u0416, 500 \u043c\u043b",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27811565",
+                "https://www.auchan.ru/files/original/27811568"
+            ],
+            "price": {
+                "value": 129.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 12973729,
+            "productId": 177937,
+            "title": "\u041c\u0435\u0434 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u041b\u0435\u0441\u043d\u043e\u0439, 380 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30107521",
+                "https://www.auchan.ru/files/original/24997858"
+            ],
+            "price": {
+                "value": 243.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18714183,
+            "productId": 280462,
+            "title": "\u041a\u043e\u0444\u0435 \u043c\u043e\u043b\u043e\u0442\u044b\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0432 \u0434\u0440\u0438\u043f-\u043f\u0430\u043a\u0435\u0442\u0430\u0445 \u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f, 6\u044511 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29208661",
+                "https://www.auchan.ru/files/original/28397071",
+                "https://www.auchan.ru/files/original/28397074",
+                "https://www.auchan.ru/files/original/28397077",
+                "https://www.auchan.ru/files/original/28397079"
+            ],
+            "price": {
+                "value": 299.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18898454,
+            "productId": 279693,
+            "title": "\u0413\u043e\u0432\u044f\u0434\u0438\u043d\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0445\u0430\u043b\u044f\u043b\u044c, 325 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28431770",
+                "https://www.auchan.ru/files/original/28431775",
+                "https://www.auchan.ru/files/original/28431781"
+            ],
+            "price": {
+                "value": 196.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 8341802,
+            "productId": 121207,
+            "title": "\u0421\u043e\u043b\u044c \u043a\u043e\u043f\u0447\u0435\u043d\u0430\u044f \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0441 \u0440\u043e\u0437\u043c\u0430\u0440\u0438\u043d\u043e\u043c \u0438 \u0447\u0435\u0441\u043d\u043e\u043a\u043e\u043c, 90 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27441097",
+                "https://www.auchan.ru/files/original/27441100",
+                "https://www.auchan.ru/files/original/27441103"
+            ],
+            "price": {
+                "value": 170.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20963941,
+            "productId": 314065,
+            "title": "\u041a\u043e\u043b\u0431\u0430\u0441\u0430 \u0441\u044b\u0440\u043e\u0432\u044f\u043b\u0435\u043d\u0430\u044f \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0424\u0443\u044d\u0442 \u0441 \u043f\u0435\u0440\u0446\u0435\u043c \u0445\u0430\u043b\u0430\u043f\u0435\u043d\u044c\u043e, 110 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29919249"
+            ],
+            "price": {
+                "value": 219.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20737901,
+            "productId": 317237,
+            "title": "\u041a\u0440\u044b\u043b\u043e \u043a\u0443\u0440\u0438\u043d\u043e\u0435 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430, ~1 \u043a\u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30116017"
+            ],
+            "price": {
+                "value": 413.99,
+                "currency": "RUB",
+                "per": "weight_kg"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 268169,
+            "productId": 21535,
+            "title": "\u0421\u043e\u043b\u044c \u0433\u0438\u043c\u0430\u043b\u0430\u0439\u0441\u043a\u0430\u044f \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0440\u043e\u0437\u043e\u0432\u0430\u044f, 120 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30614740",
+                "https://www.auchan.ru/files/original/30614764",
+                "https://www.auchan.ru/files/original/30614780"
+            ],
+            "price": {
+                "value": 129.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18502921,
+            "productId": 276692,
+            "title": "\u0413\u0440\u0430\u043d\u043e\u043b\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0441 \u0444\u0440\u0443\u043a\u0442\u0430\u043c\u0438 \u0438 \u043e\u0440\u0435\u0445\u0430\u043c\u0438, 280 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28281153",
+                "https://www.auchan.ru/files/original/28281163"
+            ],
+            "price": {
+                "value": 216.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20851225,
+            "productId": 314053,
+            "title": "\u041a\u043e\u043b\u0431\u0430\u0441\u0430 \u0441\u044b\u0440\u043e\u0432\u044f\u043b\u0435\u043d\u0430\u044f \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0424\u0443\u044d\u0442 \u0441 \u0438\u043d\u0436\u0438\u0440\u043e\u043c, 110 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29919181"
+            ],
+            "price": {
+                "value": 229.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 103310,
+            "productId": 6620,
+            "title": "\u041a\u0438\u043d\u043e\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430, 500 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/2457534"
+            ],
+            "price": {
+                "value": 255.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 19053417,
+            "productId": 286866,
+            "title": "\u0424\u0443\u043d\u0434\u0443\u043a \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0441\u0443\u0448\u0435\u043d\u044b\u0439, 150 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28503066",
+                "https://www.auchan.ru/files/original/28503072"
+            ],
+            "price": {
+                "value": 299.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 19953900,
+            "productId": 300801,
+            "title": "\u0421\u0438\u0434\u0440 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0441\u0443\u0445\u043e\u0439 \u0433\u0430\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 5%, 0,75 \u043b",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29481701",
+                "https://www.auchan.ru/files/original/29481713"
+            ],
+            "price": {
+                "value": 229.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 999255,
+            "productId": 26775,
+            "title": "\u041f\u0435\u0440\u0435\u0446 \u0431\u0435\u043b\u044b\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0433\u043e\u0440\u043e\u0448\u0435\u043a, 60 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30614996",
+                "https://www.auchan.ru/files/original/30615008",
+                "https://www.auchan.ru/files/original/30615024"
+            ],
+            "price": {
+                "value": 233.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 8341800,
+            "productId": 121205,
+            "title": "\u0421\u043e\u043b\u044c \u043a\u043e\u043f\u0447\u0435\u043d\u0430\u044f \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430, 115 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27441240",
+                "https://www.auchan.ru/files/original/27441243",
+                "https://www.auchan.ru/files/original/27441247"
+            ],
+            "price": {
+                "value": 170.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 137828,
+            "productId": 8475,
+            "title": "\u0420\u0438\u0441 \u0434\u043b\u044f \u0441\u0443\u0448\u0438 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u042f\u043f\u043e\u043d\u0438\u043a\u0430 \u043a\u0440\u0443\u0433\u043b\u043e\u0437\u0435\u0440\u043d\u044b\u0439, 500 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/2459350"
+            ],
+            "price": {
+                "value": 110.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 13297055,
+            "productId": 184630,
+            "title": "\u0428\u043e\u043a\u043e\u043b\u0430\u0434 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043d\u0430 \u0441\u0442\u0435\u0432\u0438\u0438 \u0441 \u043c\u044f\u0442\u043e\u0439, 90 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207905",
+                "https://www.auchan.ru/files/original/25279625",
+                "https://www.auchan.ru/files/original/27441285",
+                "https://www.auchan.ru/files/original/27441289"
+            ],
+            "price": {
+                "value": 139.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 19679847,
+            "productId": 294905,
+            "title": "\u0412\u043b\u0430\u0436\u043d\u044b\u0439 \u043a\u043e\u0440\u043c \u0434\u043b\u044f \u0441\u043e\u0431\u0430\u043a \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0441 \u043a\u0443\u0440\u0438\u043d\u044b\u043c\u0438 \u0441\u0435\u0440\u0434\u0435\u0447\u043a\u0430\u043c\u0438 \u0432 \u0436\u0435\u043b\u0435, 240 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29029293",
+                "https://www.auchan.ru/files/original/29029309"
+            ],
+            "price": {
+                "value": 165.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 17535997,
+            "productId": 260626,
+            "title": "\u0410\u0439\u0432\u0430\u0440 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0439, 360 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27964404",
+                "https://www.auchan.ru/files/original/27964406",
+                "https://www.auchan.ru/files/original/27964409"
+            ],
+            "price": {
+                "value": 230.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 19053416,
+            "productId": 286865,
+            "title": "\u041a\u0435\u0448\u044c\u044e \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0441\u0443\u0448\u0435\u043d\u043e\u0435 \u043e\u0440\u0433\u0430\u043d\u0438\u043a, 150 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28503053",
+                "https://www.auchan.ru/files/original/28503061"
+            ],
+            "price": {
+                "value": 299.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18295834,
+            "productId": 241199,
+            "title": "\u041c\u043e\u043b\u043e\u043a\u043e \u043a\u043e\u0437\u044c\u0435 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u041f\u0442\u0438\u0446\u0430, 200 \u043c\u043b",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28208940",
+                "https://www.auchan.ru/files/original/28208945",
+                "https://www.auchan.ru/files/original/28208948"
+            ],
+            "price": {
+                "value": 95.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 19953902,
+            "productId": 300808,
+            "title": "\u0421\u0438\u0434\u0440 \u0431\u0435\u0437\u0430\u043b\u043a\u043e\u0433\u043e\u043b\u044c\u043d\u044b\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0441\u043e \u0432\u043a\u0443\u0441\u043e\u043c \u043c\u0430\u043b\u0438\u043d\u044b \u0438 \u0431\u0443\u0437\u0438\u043d\u044b \u0433\u0430\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439, 0,33 \u043b",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29481777",
+                "https://www.auchan.ru/files/original/29481793"
+            ],
+            "price": {
+                "value": 139.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18900588,
+            "productId": 279706,
+            "title": "\u041a\u043e\u043b\u0431\u0430\u0441\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0410\u0441\u0441\u043e\u0440\u0442\u0438 \u0438\u0437 \u0441\u044b\u0440\u043e\u043a\u043e\u043f\u0447\u0435\u043d\u044b\u0445 \u043a\u043e\u043b\u0431\u0430\u0441 \u041c\u0438\u043b\u0430\u043d\u043e \u0438 \u0421\u0430\u043b\u044c\u0447\u0438\u0447\u043e\u043d, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28414864"
+            ],
+            "price": {
+                "value": 169.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 17536006,
+            "productId": 260635,
+            "title": "\u041c\u0430\u043d\u0433\u0430\u043b-\u0441\u0430\u043b\u0430\u0442 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430, 450 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27964268",
+                "https://www.auchan.ru/files/original/27964272",
+                "https://www.auchan.ru/files/original/27964276"
+            ],
+            "price": {
+                "value": 229.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 10036899,
+            "productId": 139439,
+            "title": "\u0421\u044b\u0440 \u043c\u044f\u0433\u043a\u0438\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u041a\u0440\u043e\u0442\u0435\u043d \u0438\u0437 \u043a\u043e\u0437\u044c\u0435\u0433\u043e \u043c\u043e\u043b\u043e\u043a\u0430 50% \u0411\u0417\u041c\u0416, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207577"
+            ],
+            "price": {
+                "value": 259.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 14916972,
+            "productId": 207950,
+            "title": "\u0411\u0430\u0437\u0438\u043b\u0438\u043a \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043a\u0440\u0430\u0441\u043d\u044b\u0439, 50 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27017502"
+            ],
+            "price": {
+                "value": 149.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 17536005,
+            "productId": 260634,
+            "title": "\u041b\u044e\u0442\u0435\u043d\u0438\u0446\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0434\u043e\u043c\u0430\u0448\u043d\u044f\u044f, 360 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27964258",
+                "https://www.auchan.ru/files/original/27964262",
+                "https://www.auchan.ru/files/original/27964265"
+            ],
+            "price": {
+                "value": 248.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18924165,
+            "productId": 284045,
+            "title": "\u0417\u0435\u0444\u0438\u0440 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0435\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0447\u0435\u0440\u043d\u0430\u044f \u0441\u043c\u043e\u0440\u043e\u0434\u0438\u043d\u0430, 250 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207613",
+                "https://www.auchan.ru/files/original/28520296",
+                "https://www.auchan.ru/files/original/28520299"
+            ],
+            "price": {
+                "value": 149.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 17066598,
+            "productId": 240890,
+            "title": "\u0422\u0430\u0440\u0445\u0443\u043d \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430, 50 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28103535"
+            ],
+            "price": {
+                "value": 119.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 13297053,
+            "productId": 184628,
+            "title": "\u0428\u043e\u043a\u043e\u043b\u0430\u0434 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043d\u0430 \u0441\u0442\u0435\u0432\u0438\u0438 \u0441 \u043a\u043b\u044e\u043a\u0432\u043e\u0439, 90 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207853",
+                "https://www.auchan.ru/files/original/25279612",
+                "https://www.auchan.ru/files/original/27441274",
+                "https://www.auchan.ru/files/original/27441276",
+                "https://www.auchan.ru/files/original/27441278"
+            ],
+            "price": {
+                "value": 139.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20277137,
+            "productId": 302770,
+            "title": "\u041a\u043e\u0444\u0435 \u0432 \u043a\u0430\u043f\u0441\u0443\u043b\u0430\u0445 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u041f\u0435\u0440\u0443 organic, 10 \u0448\u0442",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29918821",
+                "https://www.auchan.ru/files/original/29918825",
+                "https://www.auchan.ru/files/original/29918829"
+            ],
+            "price": {
+                "value": 499.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 3924764,
+            "productId": 52552,
+            "title": "\u041f\u0440\u0438\u043f\u0440\u0430\u0432\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0420\u0430\u0441 \u042d\u043b\u044c \u0425\u0430\u043d\u0443\u0442, 50 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30614920",
+                "https://www.auchan.ru/files/original/30614932",
+                "https://www.auchan.ru/files/original/30614948"
+            ],
+            "price": {
+                "value": 116.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 3924765,
+            "productId": 53657,
+            "title": "\u041f\u0440\u0438\u043f\u0440\u0430\u0432\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0434\u043b\u044f \u043c\u0430\u0441\u0435\u043b \u0430\u0440\u043e\u043c\u0430\u0442\u043d\u044b\u0435 \u0442\u0440\u0430\u0432\u044b, 25 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30615064",
+                "https://www.auchan.ru/files/original/30615088",
+                "https://www.auchan.ru/files/original/30615100"
+            ],
+            "price": {
+                "value": 96.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 19679849,
+            "productId": 294912,
+            "title": "\u0412\u043b\u0430\u0436\u043d\u044b\u0439 \u043a\u043e\u0440\u043c \u0434\u043b\u044f \u0441\u043e\u0431\u0430\u043a \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0441 \u0442\u0435\u043b\u044f\u0442\u0438\u043d\u043e\u0439 \u0432 \u0436\u0435\u043b\u0435, 240 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29029361",
+                "https://www.auchan.ru/files/original/29029381"
+            ],
+            "price": {
+                "value": 199.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20165824,
+            "productId": 267625,
+            "title": "\u041a\u043e\u0444\u0435 \u0441\u0443\u0431\u043b\u0438\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043a\u0440\u0435\u043f\u043a\u0438\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u041f\u0442\u0438\u0446\u0430, 100\u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29377189",
+                "https://www.auchan.ru/files/original/29377201"
+            ],
+            "price": {
+                "value": 319.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 12973728,
+            "productId": 177936,
+            "title": "\u041c\u0435\u0434 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u041b\u0443\u0433\u043e\u0432\u043e\u0439, 380 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30107517",
+                "https://www.auchan.ru/files/original/24997851"
+            ],
+            "price": {
+                "value": 243.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 131653,
+            "productId": 6573,
+            "title": "\u0420\u0438\u0441 \u0434\u043b\u0438\u043d\u043d\u043e\u0437\u0435\u0440\u043d\u044b\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0414\u0435\u0432\u0437\u0438\u0440\u0430 \u0434\u043b\u044f \u043f\u043b\u043e\u0432\u0430, 500 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/26637389",
+                "https://www.auchan.ru/files/original/26637391",
+                "https://www.auchan.ru/files/original/26637393"
+            ],
+            "price": {
+                "value": 215.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 17535998,
+            "productId": 260627,
+            "title": "\u041e\u0432\u043e\u0449\u0438 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043d\u0430 \u043c\u0430\u043d\u0433\u0430\u043b\u0435, 700 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27964412",
+                "https://www.auchan.ru/files/original/27964415",
+                "https://www.auchan.ru/files/original/27964418"
+            ],
+            "price": {
+                "value": 274.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 17536001,
+            "productId": 260630,
+            "title": "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043d\u044b\u0435 \u043b\u0438\u0441\u0442\u044c\u044f \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430, 640 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27964432",
+                "https://www.auchan.ru/files/original/27964434",
+                "https://www.auchan.ru/files/original/27964436"
+            ],
+            "price": {
+                "value": 316.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18502923,
+            "productId": 276698,
+            "title": "\u0413\u0440\u0430\u043d\u043e\u043b\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0441 \u0448\u043e\u043a\u043e\u043b\u0430\u0434\u043e\u043c \u0438 \u043e\u0440\u0435\u0445\u0430\u043c\u0438, 280 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28281190",
+                "https://www.auchan.ru/files/original/28281194"
+            ],
+            "price": {
+                "value": 216.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 16920800,
+            "productId": 247060,
+            "title": "\u041c\u0430\u043d\u0433\u043e \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043b\u0438\u0441\u0442\u043e\u0432\u043e\u0439, 120 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27880173",
+                "https://www.auchan.ru/files/original/27880175"
+            ],
+            "price": {
+                "value": 215.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20963933,
+            "productId": 312292,
+            "title": "\u0411\u0430\u0442\u043e\u043d\u0447\u0438\u043a \u0438\u0437 \u0431\u0435\u043b\u0435\u0432\u0441\u043a\u043e\u0439 \u043f\u0430\u0441\u0442\u0438\u043b\u044b \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0441 \u043b\u0435\u0441\u043d\u044b\u043c\u0438 \u044f\u0433\u043e\u0434\u0430\u043c\u0438, 50 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30214205"
+            ],
+            "price": {
+                "value": 59.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18502922,
+            "productId": 276697,
+            "title": "\u0413\u0440\u0430\u043d\u043e\u043b\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0441 \u0442\u0440\u043e\u043f\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0444\u0440\u0443\u043a\u0442\u0430\u043c\u0438, 280 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28281184",
+                "https://www.auchan.ru/files/original/28281187"
+            ],
+            "price": {
+                "value": 216.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 14916970,
+            "productId": 207963,
+            "title": "\u0422\u0438\u043c\u044c\u044f\u043d \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430, 30 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27049319"
+            ],
+            "price": {
+                "value": 99.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20232069,
+            "productId": 302840,
+            "title": "\u041f\u0430\u043d\u043d\u0430-\u043a\u043e\u0442\u0442\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u041c\u0430\u043b\u0438\u043d\u0430, 240 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30113113",
+                "https://www.auchan.ru/files/original/30113121",
+                "https://www.auchan.ru/files/original/30113133",
+                "https://www.auchan.ru/files/original/30113141"
+            ],
+            "price": {
+                "value": 169.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 14254363,
+            "productId": 199804,
+            "title": "\u0421\u044b\u0440 \u041b\u0430\u043d\u0433\u0440 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0417\u041c\u0416, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207153",
+                "https://www.auchan.ru/files/original/26794021"
+            ],
+            "price": {
+                "value": 299.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18714184,
+            "productId": 280463,
+            "title": "\u041a\u043e\u0444\u0435 \u043c\u043e\u043b\u043e\u0442\u044b\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0432 \u0434\u0440\u0438\u043f-\u043f\u0430\u043a\u0435\u0442\u0430\u0445 \u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f, 6\u044511 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29208681",
+                "https://www.auchan.ru/files/original/28397083",
+                "https://www.auchan.ru/files/original/28397086",
+                "https://www.auchan.ru/files/original/28397088",
+                "https://www.auchan.ru/files/original/28397090"
+            ],
+            "price": {
+                "value": 299.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20963929,
+            "productId": 312284,
+            "title": "\u0411\u0430\u0442\u043e\u043d\u0447\u0438\u043a \u0438\u0437 \u0431\u0435\u043b\u0435\u0432\u0441\u043a\u043e\u0439 \u043f\u0430\u0441\u0442\u0438\u043b\u044b \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0431\u0435\u0437 \u0441\u0430\u0445\u0430\u0440\u0430, 50 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30214177"
+            ],
+            "price": {
+                "value": 59.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18827361,
+            "productId": 280849,
+            "title": "\u0421\u044b\u0440 \u043f\u043e\u043b\u0443\u0442\u0432\u0435\u0440\u0434\u044b\u0439 \u041a\u0430\u0447\u043e\u0442\u0442\u0430 \u0438\u0437 \u043a\u043e\u0437\u044c\u0435\u0433\u043e \u043c\u043e\u043b\u043e\u043a\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0417\u041c\u0416, 220 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207317"
+            ],
+            "price": {
+                "value": 469.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18714182,
+            "productId": 280461,
+            "title": "\u041a\u043e\u0444\u0435 \u043c\u043e\u043b\u043e\u0442\u044b\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0432 \u0434\u0440\u0438\u043f-\u043f\u0430\u043a\u0435\u0442\u0430\u0445 \u042d\u0444\u0438\u043e\u043f\u0438\u044f, 6\u044511 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29208645",
+                "https://www.auchan.ru/files/original/28397055",
+                "https://www.auchan.ru/files/original/28397057",
+                "https://www.auchan.ru/files/original/28397060",
+                "https://www.auchan.ru/files/original/28397063"
+            ],
+            "price": {
+                "value": 299.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 17134665,
+            "productId": 254445,
+            "title": "\u0422\u0430\u043d \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0441 \u0443\u043a\u0440\u043e\u043f\u043e\u043c 2% \u0411\u0417\u041c\u0416, 500 \u043c\u043b",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27811559",
+                "https://www.auchan.ru/files/original/27811562"
+            ],
+            "price": {
+                "value": 44.95,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 2345005,
+            "productId": 45955,
+            "title": "\u041f\u0440\u0438\u043f\u0440\u0430\u0432\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0434\u043b\u044f \u043c\u0430\u0441\u0435\u043b \u0446\u0438\u0442\u0440\u0443\u0441\u043e\u0432\u044b\u0439 \u043c\u0438\u043a\u0441, 50 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30615016",
+                "https://www.auchan.ru/files/original/30615032",
+                "https://www.auchan.ru/files/original/30615048"
+            ],
+            "price": {
+                "value": 146.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 3924763,
+            "productId": 53656,
+            "title": "\u041f\u0440\u0438\u043f\u0440\u0430\u0432\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0434\u043b\u044f \u043c\u0430\u0441\u0435\u043b \u0436\u0433\u0443\u0447\u0438\u0435 \u043f\u0435\u0440\u0446\u044b, 50 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30614796",
+                "https://www.auchan.ru/files/original/30614804",
+                "https://www.auchan.ru/files/original/30614832"
+            ],
+            "price": {
+                "value": 118.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 3237055,
+            "productId": 53826,
+            "title": "\u0421\u043c\u0435\u0441\u044c \u043f\u0440\u044f\u043d\u043e\u0441\u0442\u0435\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043f\u044f\u0442\u044c \u0441\u043f\u0435\u0446\u0438\u0439, 40 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30614812",
+                "https://www.auchan.ru/files/original/30614824",
+                "https://www.auchan.ru/files/original/30614860"
+            ],
+            "price": {
+                "value": 164.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 268176,
+            "productId": 21562,
+            "title": "\u041f\u0435\u0440\u0435\u0446 \u0440\u043e\u0437\u043e\u0432\u044b\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0433\u043e\u0440\u043e\u0448\u0435\u043a, 30 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30614880",
+                "https://www.auchan.ru/files/original/30614900",
+                "https://www.auchan.ru/files/original/30614916"
+            ],
+            "price": {
+                "value": 203.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 135874,
+            "productId": 17527,
+            "title": "\u0428\u043e\u043a\u043e\u043b\u0430\u0434 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0431\u0435\u043b\u044b\u0439 \u0441 \u043c\u0430\u043b\u0438\u043d\u043e\u0439, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207693",
+                "https://www.auchan.ru/files/original/6204588"
+            ],
+            "price": {
+                "value": 179.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18898453,
+            "productId": 279691,
+            "title": "\u041a\u043e\u043d\u0438\u043d\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0445\u0430\u043b\u044f\u043b\u044c, 325 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28431759",
+                "https://www.auchan.ru/files/original/28431761",
+                "https://www.auchan.ru/files/original/28431767"
+            ],
+            "price": {
+                "value": 196.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 21419209,
+            "productId": 325885,
+            "title": "\u041f\u0435\u0447\u0435\u043d\u044c \u0431\u0430\u0440\u0430\u043d\u044c\u044f \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043e\u0445\u043b\u0430\u0436\u0434\u0435\u043d\u043d\u0430\u044f, 600 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29762917",
+                "https://www.auchan.ru/files/original/29762937"
+            ],
+            "price": {
+                "value": 149.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 12973730,
+            "productId": 177938,
+            "title": "\u041c\u0435\u0434 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0414\u043e\u043d\u043d\u0438\u043a\u043e\u0432\u044b\u0439, 380 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30107525",
+                "https://www.auchan.ru/files/original/24997864"
+            ],
+            "price": {
+                "value": 243.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 135872,
+            "productId": 17499,
+            "title": "\u0428\u043e\u043a\u043e\u043b\u0430\u0434 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0442\u0435\u043c\u043d\u044b\u0439 \u0441 \u0430\u0431\u0440\u0438\u043a\u043e\u0441\u043e\u0432\u043e\u0439 \u043a\u043e\u0441\u0442\u043e\u0447\u043a\u043e\u0439, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207649",
+                "https://www.auchan.ru/files/original/6204584"
+            ],
+            "price": {
+                "value": 109.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 16957990,
+            "productId": 247065,
+            "title": "\u041c\u0430\u043a\u0430\u0434\u0430\u043c\u0438\u044f \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430, 150 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27880177",
+                "https://www.auchan.ru/files/original/27880179"
+            ],
+            "price": {
+                "value": 508.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 1871067,
+            "productId": 45961,
+            "title": "\u041f\u0430\u043f\u0440\u0438\u043a\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043a\u043e\u043f\u0447\u0435\u043d\u0430\u044f \u0441\u043b\u0430\u0434\u043a\u0430\u044f, 55 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30615160",
+                "https://www.auchan.ru/files/original/30614732",
+                "https://www.auchan.ru/files/original/30614748"
+            ],
+            "price": {
+                "value": 288.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18900589,
+            "productId": 279707,
+            "title": "\u041a\u043e\u043b\u0431\u0430\u0441\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0410\u0441\u0441\u043e\u0440\u0442\u0438 \u0438\u0437 \u0441\u044b\u0440\u043e\u043a\u043e\u043f\u0447\u0435\u043d\u044b\u0445 \u043a\u043e\u043b\u0431\u0430\u0441, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28414871"
+            ],
+            "price": {
+                "value": 169.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 21419205,
+            "productId": 325881,
+            "title": "\u041f\u043e\u0447\u043a\u0438 \u0431\u0430\u0440\u0430\u043d\u044c\u0438 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043e\u0445\u043b\u0430\u0436\u0434\u0435\u043d\u043d\u044b\u0435, 600 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29762881",
+                "https://www.auchan.ru/files/original/29762901"
+            ],
+            "price": {
+                "value": 138.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 16920799,
+            "productId": 247058,
+            "title": "\u041f\u0435\u043a\u0430\u043d \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430, 110 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30613996",
+                "https://www.auchan.ru/files/original/30614032",
+                "https://www.auchan.ru/files/original/30614040",
+                "https://www.auchan.ru/files/original/30614064"
+            ],
+            "price": {
+                "value": 329.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 19679848,
+            "productId": 294909,
+            "title": "\u0412\u043b\u0430\u0436\u043d\u044b\u0439 \u043a\u043e\u0440\u043c \u0434\u043b\u044f \u0441\u043e\u0431\u0430\u043a \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0441 \u0438\u043d\u0434\u0435\u0439\u043a\u043e\u0439 \u0432 \u0436\u0435\u043b\u0435, 240 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29029325",
+                "https://www.auchan.ru/files/original/29029345"
+            ],
+            "price": {
+                "value": 199.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 19679846,
+            "productId": 294902,
+            "title": "\u0412\u043b\u0430\u0436\u043d\u044b\u0439 \u043a\u043e\u0440\u043c \u0434\u043b\u044f \u0441\u043e\u0431\u0430\u043a \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0441 \u043a\u0440\u043e\u043b\u0438\u043a\u043e\u043c \u0432 \u0436\u0435\u043b\u0435, 240 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29029265",
+                "https://www.auchan.ru/files/original/29029277"
+            ],
+            "price": {
+                "value": 199.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20277093,
+            "productId": 293573,
+            "title": "\u041b\u043e\u043c\u0442\u0438\u043a\u0438 \u043c\u0430\u043d\u0433\u043e \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043a\u043e\u043d\u0441\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435, 425 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29928741",
+                "https://www.auchan.ru/files/original/29928745"
+            ],
+            "price": {
+                "value": 159.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 10036896,
+            "productId": 139436,
+            "title": "\u0421\u044b\u0440 \u043c\u044f\u0433\u043a\u0438\u0439 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0428\u0435\u0432\u0440 \u0438\u0437 \u043a\u043e\u0437\u044c\u0435\u0433\u043e \u043c\u043e\u043b\u043e\u043a\u0430 \u0441 \u0442\u043e\u043c\u0430\u0442\u043e\u043c \u0438 \u043a\u0443\u043d\u0436\u0443\u0442\u043e\u043c 45% \u0411\u0417\u041c\u0416, 100 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207521"
+            ],
+            "price": {
+                "value": 244.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 17536002,
+            "productId": 260631,
+            "title": "\u0418\u043c\u0430\u043c \u0411\u0430\u044f\u043b\u0434\u044b \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430, 450 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/27964438",
+                "https://www.auchan.ru/files/original/27964440",
+                "https://www.auchan.ru/files/original/27964442"
+            ],
+            "price": {
+                "value": 262.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 19953899,
+            "productId": 300798,
+            "title": "\u0421\u0438\u0434\u0440 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043f\u043e\u043b\u0443\u0441\u043b\u0430\u0434\u043a\u0438\u0439 \u0433\u0430\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 5%, 0,75 \u043b",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29481661",
+                "https://www.auchan.ru/files/original/29481677"
+            ],
+            "price": {
+                "value": 229.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 13360641,
+            "productId": 187997,
+            "title": "\u0421\u044b\u0440 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0421\u0435\u043d-\u041c\u043e\u0440 \u0438\u0437 \u043a\u043e\u0437\u044c\u0435\u0433\u043e \u043c\u043e\u043b\u043e\u043a\u0430 45% \u0411\u0417\u041c\u0416, 130 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207941",
+                "https://www.auchan.ru/files/original/26540154",
+                "https://www.auchan.ru/files/original/26540158"
+            ],
+            "price": {
+                "value": 399.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 19679845,
+            "productId": 294899,
+            "title": "\u0412\u043b\u0430\u0436\u043d\u044b\u0439 \u043a\u043e\u0440\u043c \u0434\u043b\u044f \u0441\u043e\u0431\u0430\u043a \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0433\u043e\u0432\u044f\u0436\u044c\u0435 \u0441\u0435\u0440\u0434\u0446\u0435 \u0438 \u043f\u0435\u0447\u0435\u043d\u044c \u0432 \u0436\u0435\u043b\u0435, 240 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29029225",
+                "https://www.auchan.ru/files/original/29029249"
+            ],
+            "price": {
+                "value": 165.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 1868123,
+            "productId": 45949,
+            "title": "\u041f\u0440\u0438\u043f\u0440\u0430\u0432\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0434\u043b\u044f \u043c\u0430\u0441\u0435\u043b \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0430\u044f \u0441\u043c\u0435\u0441\u044c, 50 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30614852",
+                "https://www.auchan.ru/files/original/30614876",
+                "https://www.auchan.ru/files/original/30614896"
+            ],
+            "price": {
+                "value": 136.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 20232065,
+            "productId": 302839,
+            "title": "\u041f\u0430\u043d\u043d\u0430-\u043a\u043e\u0442\u0442\u0430 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0412\u0438\u0448\u043d\u044f, 240 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/30113065",
+                "https://www.auchan.ru/files/original/30113077",
+                "https://www.auchan.ru/files/original/30113093",
+                "https://www.auchan.ru/files/original/30113105"
+            ],
+            "price": {
+                "value": 169.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18924178,
+            "productId": 284073,
+            "title": "\u0417\u0435\u0444\u0438\u0440 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0435\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0430\u043d\u0442\u043e\u043d\u043e\u0432\u043a\u0430, 250 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207713",
+                "https://www.auchan.ru/files/original/28520493",
+                "https://www.auchan.ru/files/original/28520495"
+            ],
+            "price": {
+                "value": 149.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 18924166,
+            "productId": 284049,
+            "title": "\u0421\u0443\u0445\u0430\u0440\u0438\u043a\u0438 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0411\u0435\u043b\u0435\u0432\u0441\u043a\u0438\u0435 \u0441 \u0430\u0431\u0440\u0438\u043a\u043e\u0441\u043e\u043c, 50 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/28520305",
+                "https://www.auchan.ru/files/original/28520306"
+            ],
+            "price": {
+                "value": 64.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 13297056,
+            "productId": 184631,
+            "title": "\u0428\u043e\u043a\u043e\u043b\u0430\u0434 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u043d\u0430 \u0441\u0442\u0435\u0432\u0438\u0438 \u0441 \u0430\u043f\u0435\u043b\u044c\u0441\u0438\u043d\u043e\u043c, 90 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/29207925",
+                "https://www.auchan.ru/files/original/25279484"
+            ],
+            "price": {
+                "value": 139.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        },
+        {
+            "id": 14299182,
+            "productId": 188892,
+            "title": "\u041e\u0440\u0435\u0445\u043e\u0432\u044b\u0439 \u043c\u0438\u043a\u0441 \u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430 \u0431\u0435\u0437 \u0441\u043e\u043b\u0438, 150 \u0433",
+            "mediaUrls": [
+                "https://www.auchan.ru/files/original/26316847",
+                "https://www.auchan.ru/files/original/26316849"
+            ],
+            "price": {
+                "value": 329.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "oldPrice": null,
+            "brand": "\u0410\u0428\u0410\u041d \u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043f\u0442\u0438\u0446\u0430"
+        }
+    ],
+    "total": 133
+}
