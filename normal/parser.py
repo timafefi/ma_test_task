@@ -20,8 +20,11 @@ def send_request(page):
             "cashback_only": False
         }
     }
-    response = requests.get(endpoint, params=params, json=data).json()
-    return {'items': response['items'], 'range': response['activeRange']}
+    response = requests.get(endpoint, params=params, json=data)
+    if response.status_code != 200:
+        exit(1)
+    j = response.json()
+    return {'items': j['items'], 'range': j['activeRange']}
 
 
 def filter_response(resp):

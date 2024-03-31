@@ -1,5 +1,5 @@
 {
-    "total": 169,
+    "total": 167,
     "items": [
         {
             "id": 15926881,
@@ -34,6 +34,40 @@
                 "per": "item"
             },
             "brand": "Hochland"
+        },
+        {
+            "id": 9586558,
+            "productId": 124485,
+            "title": "\u0421\u044b\u0440 \u043f\u043b\u0430\u0432\u043b\u0435\u043d\u044b\u0439 Rokler \u0441 \u0432\u0435\u0442\u0447\u0438\u043d\u043e\u0439 55% \u0411\u0417\u041c\u0416, 180 \u0433",
+            "price": {
+                "value": 89.95,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "url": "https://www.auchan.ru/product/syr_pl_rokler_s_vetchinoy_180gr",
+            "oldPrice": {
+                "value": 141.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "Rokler"
+        },
+        {
+            "id": 552750,
+            "productId": 22440,
+            "title": "\u0421\u044b\u0440 \u043f\u043b\u0430\u0432\u043b\u0435\u043d\u044b\u0439 Rokler \u0441 \u0433\u0440\u0438\u0431\u0430\u043c\u0438 \u0411\u0417\u041c\u0416, 180 \u0433",
+            "price": {
+                "value": 89.95,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "url": "https://www.auchan.ru/product/syr-plavlenyy-rokler-s-gribami-200-g",
+            "oldPrice": {
+                "value": 141.99,
+                "currency": "RUB",
+                "per": "item"
+            },
+            "brand": "Rokler"
         },
         {
             "id": 211472,
@@ -594,19 +628,6 @@
             "brand": "Hochland"
         },
         {
-            "id": 211374,
-            "productId": 5267,
-            "title": "\u0421\u044b\u0440 \u043f\u043b\u0430\u0432\u043b\u0435\u043d\u044b\u0439 4 \u0441\u044b\u0440\u0430 Viola 50% \u0411\u0417\u041c\u0416, 200 \u0433",
-            "price": {
-                "value": 198.99,
-                "currency": "RUB",
-                "per": "item"
-            },
-            "url": "https://www.auchan.ru/product/syr-viola-plavlennyy-4-syra-50-200-g",
-            "oldPrice": null,
-            "brand": "Viola"
-        },
-        {
             "id": 17134730,
             "productId": 254107,
             "title": "\u0421\u044b\u0440 \u043f\u043b\u0430\u0432\u043b\u0435\u043d\u044b\u0439 Delissir \u0425\u043e\u0440\u0438\u0442\u0430\u043a\u0438 30% \u0411\u0417\u041c\u0416, 180 \u0433",
@@ -763,19 +784,6 @@
             "brand": "President"
         },
         {
-            "id": 9586558,
-            "productId": 124485,
-            "title": "\u0421\u044b\u0440 \u043f\u043b\u0430\u0432\u043b\u0435\u043d\u044b\u0439 Rokler \u0441 \u0432\u0435\u0442\u0447\u0438\u043d\u043e\u0439 55% \u0411\u0417\u041c\u0416, 180 \u0433",
-            "price": {
-                "value": 141.99,
-                "currency": "RUB",
-                "per": "item"
-            },
-            "url": "https://www.auchan.ru/product/syr_pl_rokler_s_vetchinoy_180gr",
-            "oldPrice": null,
-            "brand": "Rokler"
-        },
-        {
             "id": 4684241,
             "productId": 57907,
             "title": "\u0421\u044b\u0440 \u043f\u043b\u0430\u0432\u043b\u0435\u043d\u044b\u0439 Rokler \u0441 \u0432\u0435\u0442\u0447\u0438\u043d\u043e\u0439 \u0411\u0417\u041c\u0416, 80 \u0433",
@@ -785,19 +793,6 @@
                 "per": "item"
             },
             "url": "https://www.auchan.ru/product/syr_plav_rokler_vetchin_f_80gr",
-            "oldPrice": null,
-            "brand": "Rokler"
-        },
-        {
-            "id": 552750,
-            "productId": 22440,
-            "title": "\u0421\u044b\u0440 \u043f\u043b\u0430\u0432\u043b\u0435\u043d\u044b\u0439 Rokler \u0441 \u0433\u0440\u0438\u0431\u0430\u043c\u0438 \u0411\u0417\u041c\u0416, 180 \u0433",
-            "price": {
-                "value": 141.99,
-                "currency": "RUB",
-                "per": "item"
-            },
-            "url": "https://www.auchan.ru/product/syr-plavlenyy-rokler-s-gribami-200-g",
             "oldPrice": null,
             "brand": "Rokler"
         },
@@ -1812,19 +1807,6 @@
                 "per": "item"
             },
             "url": "https://www.auchan.ru/product/syr-plavlenyy-viola-s-lisichkami-140-g",
-            "oldPrice": null,
-            "brand": "Viola"
-        },
-        {
-            "id": 211082,
-            "productId": 5276,
-            "title": "\u0421\u044b\u0440 \u043f\u043b\u0430\u0432\u043b\u0435\u043d\u044b\u0439 \u0441 \u0433\u0440\u0438\u0431\u0430\u043c\u0438 Viola \u0411\u0417\u041c\u0416, 200 \u0433",
-            "price": {
-                "value": 226.99,
-                "currency": "RUB",
-                "per": "item"
-            },
-            "url": "https://www.auchan.ru/product/syr-viola-s-lisichkami-plavlenyy-200-g",
             "oldPrice": null,
             "brand": "Viola"
         },
