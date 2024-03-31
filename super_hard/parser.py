@@ -1,7 +1,6 @@
 import requests
 import json
 
-step = 100
 
 def send_request(page):
     headers = {
@@ -24,7 +23,7 @@ def send_request(page):
         'sort': 'popular',
         'category_id': 1,
         'page': page,
-        'count': step,
+        'count': 10,
         'token': '07c2139058f44b375d352821d4e78db3',
         'sign': '86d357cb55f0b7c7f7b9572c95fdef3a'
     }
@@ -39,13 +38,14 @@ def filter_response(resp):
             continue
         d = {
             'id': elem['id'],
-            'article': elem['article'],
             'title': elem['title'],
             'url': elem['webpage'],
             'price': elem['price'],
-            'brand': elem['manufacturer']['name']
+            'brand': elem['brand_name']
         }
         filtered.append(d)
+        print(resp['data']['goods'])
+        print(filtered)
     return filtered
 
 
@@ -55,19 +55,19 @@ def main():
         'total': 0,
         'items': []
     }
-    cur_page = 0
+    cur_page = 1
     while (True):
         resp = send_request(cur_page)
         if resp.status_code != 200:
             print(f"Something went wrong. Status code {resp.status_code}\n"
                   f"{resp.json()}")
-            exit(1)
-        resp_filtered = filter_response(resp)
+            break
+        resp_filtered = filter_response(resp.json())
         json_resp['items'].extend(resp_filtered)
         json_resp['total'] += len(resp_filtered)
-        if (resp['range'] <= json_resp['total']):
+        if (resp.json()['data']['total_pages'] < cur_page):
             break
-        cur_page += step
+        cur_page += 1
     with open('result.json', 'w') as f:
         json.dump(json_resp, f, indent=4)
 
