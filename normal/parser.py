@@ -11,19 +11,17 @@ def send_request(page):
         'merchantId': 1,
         'page': page,
         'perPage': step,
-        'orderField': 'discountPercent',
-        'orderDirection': 'desc',
     }
     data = {
         "filter": {
-            "category": "ashan_zolotaya_ptica",
+            "category": "plavlenye",
             "promo_only": False,
             "active_only": True,
             "cashback_only": False
         }
     }
     response = requests.get(endpoint, params=params, json=data).json()
-    return {'items': response['items'], 'range': response['range']}
+    return {'items': response['items'], 'range': response['activeRange']}
 
 
 def filter_response(resp):
@@ -35,8 +33,8 @@ def filter_response(resp):
             'id': elem['id'],
             'productId': elem['productId'],
             'title': elem['title'],
-            'mediaUrls': elem['mediaUrls'],
             'price': elem['price'],
+            'url': f"https://www.auchan.ru/product/{elem['code']}",
             'oldPrice': elem['oldPrice'],
             'brand': elem['brand']['name']
         }
