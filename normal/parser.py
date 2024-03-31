@@ -46,8 +46,8 @@ def filter_response(resp):
 
 def main():
     json_resp = {
-        'items': [],
-        'total': 0
+        'total': 0,
+        'items': []
     }
     cur_page = 1
     while (True):
